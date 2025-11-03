@@ -3,3 +3,8 @@ pandas
 scipy
 matplotlib
 scikit-learn
+seaborn
+streamlit
+plotly
+django
+djangorestframework
